@@ -18,3 +18,7 @@ var totalCards = 10
 
 ![App Screenshot](https://github.com/eldhoral/poc-queue-golang/blob/main/Screenshot%202023-09-14%20184512.png)
 
+## Acknowledgements
+
+ - [Analyzing Golang’s Queue Implementation](https://betterprogramming.pub/golang-queue-implementation-analysis-209629eb600d).
+
